@@ -1,0 +1,97 @@
+*{
+   max-width: 1024px; 
+   margin: 0px;
+   font-family: sans-serif;
+}
+h1{
+    margin-bottom: 40px;
+}
+h2{
+    margin-bottom: 20px;
+}
+h3{
+    margin-bottom:15px ;
+}
+p{
+    margin-bottom: 40px;
+}
+.P2 {
+ color:blue;
+ font-weight: bold; 
+ margin-bottom: 40px;  
+    
+}
+body{
+    margin-left: 20px;
+    background: rgb(189, 236, 225);
+}
+
+img{
+    width: 160px;
+    height: 160px;
+}
+article{
+    
+    float: left;
+    height: 660px;
+    
+}
+.article-1{
+    
+    background: rgb(123, 172, 189);
+    width: 40%;
+    
+    
+    
+    
+    
+    
+}
+.article-2{
+
+    
+    background: rgb(170, 218, 148);
+    width: 40%;
+    
+    
+}
+header{
+    background: lightslategray;
+    width: 20%;
+    
+}
+aside{
+    background: rgb(172, 156, 241);
+    
+}
+/* mina länkar till hemsidorna i header.*/
+.line1,.line2,.line3{
+    float: right;
+    width: 80%;
+    font-size: 40px;
+    
+}
+.line1{
+    background: mediumorchid;
+    width: 20%;
+     
+}
+.line2{
+    background: rgb(114, 88, 88);
+     width: auto;
+     
+}
+.line3{
+    background: olive;
+    width: auto;
+    
+
+}
+footer{
+    
+    background: orangered;
+    
+}
+
+
+
